@@ -1,0 +1,9 @@
+ID	Nama	No Telepon	Email	Alamat	Foto
+1	Putra	083863752138	putra@gmail.com	pelaihari	C:\Users\Putra\Pictures\dejz6sh-aa14ea60-3bfd-4ce3-b412-4458ce4c253b.jpg
+9	Almas	024586117895	almaseh@gmail.com	Palangkaraya	C:\Users\Putra\Pictures\gambar Buku Alamat\almas.jpg
+10	Paijo	0123654789654	paijo@gmail.com	pelaihari	C:\Users\Putra\Pictures\gambar Buku Alamat\paijo.png
+11	Said	0987456321456	said@gmail.com	gardu	C:\Users\Putra\Pictures\gambar Buku Alamat\said.jpg
+12	Riski	896532147821	iki@gmail.com	jorong	C:\Users\Putra\Pictures\gambar Buku Alamat\iki.jpg
+13	Raihan	1254545415245	raihan@gmail.com	Sungai Lulut	C:\Users\Putra\Pictures\gambar Buku Alamat\Raihan.png
+14	Nur	1254545415245	nur@gmail.com	HKSN	C:\Users\Putra\Pictures\gambar Buku Alamat\nur.jpg
+15	jontor	0826351456321	nyong@gmail.com	Ujung Bumi	C:\Users\Putra\Pictures\meme.jpg
