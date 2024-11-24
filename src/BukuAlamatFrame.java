@@ -105,8 +105,7 @@ public class BukuAlamatFrame extends javax.swing.JFrame {
 
 
 
-            // Aktifkan tombol Simpan
-            btnSimpan.setEnabled(true);
+          
 
            // Tambahkan aksi pada tombol Simpan
             btnSimpan.addActionListener(saveEvent -> {

@@ -28,7 +28,7 @@ public class DetailViewFrame extends javax.swing.JFrame {
     txtEmail.setText(data.getOrDefault("Email", ""));
     txtAlamat.setText(data.getOrDefault("Alamat", ""));
 
-    // Tampilkan foto (jika ada)
+    
     // Tampilkan foto (jika ada)
 if (data.containsKey("Foto") && !data.get("Foto").isEmpty()) {
     String fotoPath = data.get("Foto");

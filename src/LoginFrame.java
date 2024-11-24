@@ -10,9 +10,7 @@ public class LoginFrame extends javax.swing.JFrame {
     public LoginFrame() {
         initComponents();
         
-        btnLogin.addActionListener(evt -> loginAction());
-
-        
+        btnLogin.addActionListener(evt -> loginAction());        
     }
     
     private void loginAction() {

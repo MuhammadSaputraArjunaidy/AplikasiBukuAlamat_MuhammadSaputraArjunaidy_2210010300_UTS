@@ -6,4 +6,5 @@ ID	Nama	No Telepon	Email	Alamat	Foto
 12	Riski	896532147821	iki@gmail.com	jorong	C:\Users\Putra\Pictures\gambar Buku Alamat\iki.jpg
 13	Raihan	1254545415245	raihan@gmail.com	Sungai Lulut	C:\Users\Putra\Pictures\gambar Buku Alamat\Raihan.png
 14	Nur	1254545415245	nur@gmail.com	HKSN	C:\Users\Putra\Pictures\gambar Buku Alamat\nur.jpg
-15	jontor	0826351456321	nyong@gmail.com	Ujung Bumi	C:\Users\Putra\Pictures\meme.jpg
+15	jontor	0826351456321	nyong@gmail.com	Banjarmasin	C:\Users\Putra\Pictures\meme.jpg
+18	alya	0812365478965	mawar@gmail.com	handil bakti	C:\Users\Putra\Pictures\gambar Buku Alamat\alya.jpg
