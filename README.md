@@ -1,10 +1,10 @@
 
-# Aplikasi Penyewaan PC
+# Aplikasi Buku Alamat
 
 
 
 ## Deskripsi
-Aplikasi Penyewaan PC adalah solusi digital inovatif yang dirancang untuk mempermudah akses dan pengelolaan layanan penyewaan komputer. Dengan antarmuka yang user-friendly, aplikasi ini memungkinkan pengguna untuk mencari, memesan, dan mengelola penyewaan PC dengan cepat dan efisien.
+Aplikasi Buku Alamat adalah perangkat lunak yang dirancang untuk membantu pengguna dalam menyimpan, mengelola, dan mengakses informasi kontak dengan mudah. Aplikasi ini biasanya menyediakan fungsi dasar untuk menambah, mengedit, dan menghapus entri kontak, serta dilengkapi dengan antarmuka pengguna yang menarik dan intuitif.
 ## Dokumentasi Kode
 
 ### LoginFrame.java
